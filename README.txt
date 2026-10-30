@@ -9,6 +9,8 @@ services.html：建設業の税務・顧問
 about.html：事務所・代表紹介
 fees.html：料金・ご相談の流れ
 contact.html：お問い合わせ
+column.html：コラム一覧
+column-*.html：コラム記事（4本）
 assets/：CSS・JavaScript・画像・アイコン
 
 ■ GitHub Pagesへ掲載する場合
